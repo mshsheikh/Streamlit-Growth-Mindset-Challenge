@@ -18,7 +18,7 @@ A modern, interactive quiz app built with Streamlit to test your Python knowledg
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/streamlit-growth-mindset-challenge.git
+   git clone https://github.com/mshsheikh/streamlit-growth-mindset-challenge.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -53,4 +53,3 @@ This project is MIT licensed.
 - Email: business.mshsheikh@gmail.com  
 
 Made with ❤️ and Streamlit 🚀
-```
