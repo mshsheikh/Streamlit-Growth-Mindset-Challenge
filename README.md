@@ -2,8 +2,6 @@
 
 A modern, interactive quiz app built with Streamlit to test your Python knowledge.
 
-Features a clean design with real-time feedback and progress tracking.
-
 ## Features ✨
 - **Interactive quiz interface** 📚  
 - **Real-time progress bar** 📊  
