@@ -49,7 +49,7 @@ Contributions welcome!
 This project is MIT licensed.  
 
 ## Contact 📧
-- GitHub: [Your Profile](https://github.com/mshsheikh)  
+- GitHub: [Muhammad Salman Hussain](https://github.com/mshsheikh)  
 - Email: business.mshsheikh@gmail.com  
 
 Made with ❤️ and Streamlit 🚀
